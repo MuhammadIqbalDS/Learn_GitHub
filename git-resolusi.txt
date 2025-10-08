@@ -1,2 +1,3 @@
 git resolution
 - learn git to work together with team
+- learn how to commit and load edit history
