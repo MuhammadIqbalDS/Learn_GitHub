@@ -1,0 +1,3 @@
+next plan
+- learn git and github
+- pull and push 
